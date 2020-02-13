@@ -16,5 +16,5 @@ Specialty: Primary education
 
 *Skills*
 
-English - Intermediate
+English - Intermediate  
 Basic knowledge HTML / CSS
